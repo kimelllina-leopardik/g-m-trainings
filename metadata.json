@@ -1,0 +1,7 @@
+{
+  "name": "G&M Group Training LMS",
+  "description": "Платформа интерактивного обучения и тестирования сотрудников брендов La Cité, GEOX и Yves Rocher группы G&M Group.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
